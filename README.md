@@ -55,7 +55,7 @@ This repository helps me:
 
 <div align="center">
 
-![snake gif](https://github.com/BADAL-06/BADAL-06/blob/output/github-contribution-grid-snake.svg)
+![snake gif](snake.yml)
 
 </div>
 
