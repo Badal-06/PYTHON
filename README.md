@@ -1,8 +1,4 @@
-<p align="center">
-  <img src=""https://github.com/Badal-06/badal-06/blob/main/ChatGPT%20Image%20Apr%2027,%202025,%2003_31_22%20PM.png?raw=true"" alt="Welcome to BADAL-06's World" />
-</p>
-
-
+![ChatGPT Image Apr 27, 2025, 03_31_22 PM](https://github.com/user-attachments/assets/a899ab74-40ba-4e2e-8c9c-70f8449e346e)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F79A01&center=true&vCenter=true&width=700&lines=🐍+Python+Learning+Journey+🚀;From+Zero+to+Pythonic+Hero!)
 
@@ -55,7 +51,8 @@ This repository helps me:
 
 <div align="center">
 
-![snake gif](snake.yml)
+![snake gif](https://github.com/BADAL-06/BADAL-06/blob/output/github-contribution-grid-snake.gif)
+
 
 </div>
 
@@ -96,19 +93,4 @@ If you’re on a similar journey, let’s learn together:
 
 Happy Coding! 💻✨  
 — *BADAL🤩🤗*
-## Hi there 👋
 
-<!--
-**Badal-06/badal-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
