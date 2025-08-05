@@ -1,7 +1,4 @@
 # traffic light code :-
-
-
-#Program of Traffic light
 light=str(input("light:")).lower()
 if(light=="red"):
     print("stop")
