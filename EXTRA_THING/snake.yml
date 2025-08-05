@@ -1,0 +1,30 @@
+name: Generate Snake Animation 🐍🌈
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # every midnight
+  workflow_dispatch:     # allow manual trigger
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate GitHub Contribution Snake with Rainbow Effect
+        uses: Platane/snk@v3
+        with:
+          github_user_name: BADAL-06
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          color_snake: rainbow
+          color_dots: "#FFE600, #FFC300, #FF5733, #C70039, #900C3F, #581845"
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
