@@ -50,7 +50,7 @@ This repository helps me:
 ## 🐍 Snake Contribution Animation
 
 <div align="center">
-### 🐍 Snake Contribution Animation
+
 
 ![snake gif](https://raw.githubusercontent.com/BADAL-06/BADAL-06/output/github-contribution-grid-snake.gif)
 
