@@ -50,7 +50,7 @@ This repository helps me:
 ## 🐍 Snake Contribution Animation
 
 <p align="center">
-  <img src="https://github.com/Badal-06/PYTHON/blob/main/.github/workflows/snake.yml.gif" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/Badal-06/PYTHON/output/github-contribution-grid-snake.gif" alt="snake gif" />
 </p>
 
 
