@@ -49,13 +49,10 @@ This repository helps me:
 
 ## 🐍 Snake Contribution Animation
 
-<div align="center">
+<p align="center">
+  <img src="https://github.com/Badal-06/PYTHON/blob/main/.github/workflows/snake.yml.gif" alt="snake gif" />
+</p>
 
-
-![snake gif](https://raw.githubusercontent.com/BADAL-06/BADAL-06/output/github-contribution-grid-snake.gif)
-
-
-</div>
 
 ---
 
