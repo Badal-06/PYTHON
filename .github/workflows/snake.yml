@@ -25,5 +25,6 @@ jobs:
       - name: Upload animation to the output branch
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          branch: output  # The branch the action should deploy to.
-          folder: dist    # The folder the build script generates files.
+          branch: output
+          folder: dist
+          token: ${{ secrets.GITHUB_TOKEN }}
