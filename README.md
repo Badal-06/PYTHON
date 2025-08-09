@@ -47,15 +47,6 @@ This repository helps me:
 
 ---
 
-## 🐍 Snake Contribution Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Badal-06/PYTHON/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-
----
-
 ## 🤝 Open to Collaborations
 
 Though this is a personal learning space, I always welcome:
