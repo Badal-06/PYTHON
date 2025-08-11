@@ -1,6 +1,0 @@
-tup=(87,64,33,95,76)
-print(tup[0],tup[3])
-print(tup.index(33))
-print(sum(tup))
-print(min(tup))
-print(max(tup))
