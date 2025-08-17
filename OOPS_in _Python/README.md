@@ -54,69 +54,85 @@ class Son(Father):
 s = Son()
 s.showF()
 s.showS()
-✅ Output:
+
+## ✅ Output
 
 Father Class Method
 Son Class Method
 
-🎯 Learning Goals
+
+---
+
+## 🎯 Learning Goals
 
 By going through the code in this repo, you will learn:
 
-How to design Python classes effectively.
+- How to design Python classes effectively.  
+- How inheritance helps in reusing code.  
+- How polymorphism allows flexibility in method usage.  
+- The difference between class methods, static methods, and instance methods.  
+- How Python supports abstraction and operator overloading.  
 
-How inheritance helps in reusing code.
+---
 
-How polymorphism allows flexibility in method usage.
+## 📖 Requirements
 
-The difference between class methods, static methods, and instance methods.
+- Python **3.x**  
+- No external libraries required – everything is based on **core Python**.  
 
-How Python supports abstraction and operator overloading.
+---
 
-📖 Requirements
-
-Python 3.x
-
-No external libraries required – everything is based on core Python.
-
-🚀 How to Run
+## 🚀 How to Run
 
 Clone the repository:
 
+```bash
 git clone https://github.com/Badal-06/PYTHON.git
 cd PYTHON/OOPS_in_Python
 
+## ▶️ Run Any Python File
 
-Run any Python file:
-
+```bash
 python filename.py
+---
 
-📌 Author
+## 📌 Author  
 
-👤 Badal
+👤 **Badal**  
+- GitHub: [Badal-06](https://github.com/Badal-06)  
 
-GitHub: Badal-06
+---
 
-⭐ Contribute
+## ⭐ Contribute  
 
-If you’d like to add more examples or improve explanations:
+If you’d like to add more examples or improve explanations:  
 
-Fork the repo
+1. **Fork** the repo  
+2. **Create a new branch**  
 
-Create a new branch
+   ```bash
+   git checkout -b feature-xyz
 
-git checkout -b feature-xyz
+3. **Commit Your Changes**  
 
-
-Commit your changes
-
+```bash
 git commit -m "Added new OOP example"
 
+4. ** 🚀 Push to Your Branch ** 
 
-Push to your branch and create a Pull Request
+```bash
+git push origin feature-xyz
 
-📌 License
+5. ** 🔀 Create a Pull Request**  
 
-This project is open-source and available under the MIT License.
+After pushing, go to your forked repo on GitHub and click **"Compare & Pull Request"**.  
 
-✨ If you found this helpful, don’t forget to star ⭐ the repo!
+---
+
+## 📌 License  
+
+This project is **open-source** and available under the **MIT License**.  
+
+---
+
+✨ If you found this helpful, don’t forget to **star ⭐ the repo**!
