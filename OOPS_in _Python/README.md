@@ -1,62 +1,48 @@
-Object-Oriented Programming (OOP) in Python 🚀
+# Object-Oriented Programming (OOP) in Python 🚀
 
-This repository contains examples and implementations of Object-Oriented Programming (OOP) concepts in Python.
+This repository contains examples and implementations of **Object-Oriented Programming (OOP)** concepts in Python.  
 It is designed for beginners and intermediate learners to understand how OOP principles work in practice.
 
-📑 Table of Contents
+---
 
-Repository Structure
+## 📑 Table of Contents
+- [Repository Structure](#-repository-structure)
+- [Example](#-example)
+- [Learning Goals](#-learning-goals)
+- [Requirements](#-requirements)
+- [How to Run](#-how-to-run)
+- [Author](#-author)
+- [Contribute](#-contribute)
+- [License](#-license)
 
-Example
+---
 
-Learning Goals
-
-Requirements
-
-How to Run
-
-Author
-
-Contribute
-
-License
-
-📂 Repository Structure
+## 📂 Repository Structure
 
 The repo includes Python scripts demonstrating the following OOP concepts:
 
-Classes & Objects
+- **Classes & Objects**
+- **Constructors (`__init__` method)**
+- **Instance & Class Variables**
+- **Instance, Class, and Static Methods**
+- **Inheritance**
+  - Single Inheritance  
+  - Multiple Inheritance  
+  - Multilevel Inheritance  
+- **Method Overriding**
+- **Abstract Classes & Methods (`abc` module)**
+- **Polymorphism**
+- **Operator Overloading (`__add__`, etc.)**
+- **Encapsulation & Properties (`@property`)**
+- **Nested Classes**
 
-Constructors (__init__ method)
+---
 
-Instance & Class Variables
+## 📝 Example
 
-Instance, Class, and Static Methods
+Here’s a simple example of **Inheritance** from the repo:
 
-Inheritance
-
-Single Inheritance
-
-Multiple Inheritance
-
-Multilevel Inheritance
-
-Method Overriding
-
-Abstract Classes & Methods (abc module)
-
-Polymorphism
-
-Operator Overloading (__add__, etc.)
-
-Encapsulation & Properties (@property)
-
-Nested Classes
-
-📝 Example
-
-Here’s a simple example of Inheritance from the repo:
-
+```python
 class Father:
     def showF(self):
         print("Father Class Method")
@@ -68,8 +54,6 @@ class Son(Father):
 s = Son()
 s.showF()
 s.showS()
-
-
 ✅ Output:
 
 Father Class Method
@@ -119,11 +103,17 @@ If you’d like to add more examples or improve explanations:
 
 Fork the repo
 
-Create a new branch (git checkout -b feature-xyz)
+Create a new branch
 
-Commit changes (git commit -m "Added new OOP example")
+git checkout -b feature-xyz
 
-Push and create a Pull Request
+
+Commit your changes
+
+git commit -m "Added new OOP example"
+
+
+Push to your branch and create a Pull Request
 
 📌 License
 
