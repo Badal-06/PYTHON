@@ -1,4 +1,4 @@
-import pickle, PickClass   # Import pickle module and custom module PickClass
+import pickle, Pick_Class   # Import pickle module and custom module PickClass
 
 # Ask user how many student records they want to enter
 n = int(input("Enter Number of Student: "))

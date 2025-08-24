@@ -1,4 +1,4 @@
-import pickle, PickClass   # Import pickle module and custom module PickClass
+import pickle, Pick_Class   # Import pickle module and custom module PickClass
 
 # Open the file 'Student.data' in binary read mode
 with open("Student.data", mode="rb") as f:
