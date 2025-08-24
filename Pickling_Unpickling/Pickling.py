@@ -12,7 +12,7 @@ with open("student.data", mode="wb") as f:
         address = input("Enter Address: ")
 
         # Create a Student object (class is defined inside PickClass module)
-        stu1 = PickClass.Student(name, roll, address)
+        stu1 = Pick_Class.Student(name, roll, address)
 
         # Serialize (pickle) the object and write it into the file
         pickle.dump(stu1, f)
